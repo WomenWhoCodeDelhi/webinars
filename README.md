@@ -28,15 +28,15 @@ Meetups : [https://www.meetup.com/Women-Who-Code-Delhi/](https://www.meetup.com/
 Active Director : Shubhi Sareen 
 
 ### Webinar Team 
-Abi Aryan - Show Host
-Stuti Verma - Executive Head
-Manmeet Kaur - 
-Japleen Kaur Jolly - Communications Head, Head of Blog
-Mansi Breja - Scriptwriter
-Kamal Kaur - Head of Marketing, Webinars
-Anisha Thakur - Executive Team
-Aakansha Singh - Executive Team
-Priyam Bansal - Executive Team
+* Abi Aryan - Show Host
+* Stuti Verma - Creative Head
+* Manmeet Kaur - Executive Head
+* Japleen Kaur Jolly - Communications Head, Head of Blog
+* Mansi Breja - Scriptwriter
+* Kamal Kaur - Head of Marketing, Webinars
+* Anisha Thakur - Executive Team
+* Aakansha Singh - Executive Team
+* Priyam Bansal - Executive Team
 
 # How to suggest a speaker for the webinar?
 To suggest any speaker, open an issue with the speaker's linkedin profile and a short paragraph on why do you think they should be featured on our show?
