@@ -12,10 +12,10 @@ Welcome to Women Who Code Delhi.
 
 ### Current Directors :
 
-* [Abi Aryan](https://www.facebook.com/officialabiaryan/) Email : abi@womenwhocode.com
-* Priyal Aggrawal Email : priyal@womenwhocode.com
-* Brihi Joshi Email : brihi@womenwhocode.com
-* Rddhima Raghunand Email : rddhima@womenwhocode.com
+* [Abi Aryan](https://www.facebook.com/officialabiaryan/)                       Email : abi@womenwhocode.com
+* Priyal Aggrawal                                                               Email : priyal@womenwhocode.com
+* Brihi Joshi                                                                   Email : brihi@womenwhocode.com
+* Rddhima Raghunand                                                             Email : rddhima@womenwhocode.com
 
 Active Director : Shubhi Sareen 
 
