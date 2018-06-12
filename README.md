@@ -36,7 +36,7 @@ Active Director : Shubhi Sareen
 * Aakansha Singh - Executive Team
 * Priyam Bansal - Executive Team
 
-**How to reach us? Email : delhi@womenwhcode.com**
+**How to reach the webinar team? Email : delhi@womenwhcode.com**
 
 # How to suggest a speaker for the webinar?
 To suggest any speaker, open an issue with the speaker's linkedin profile and a short paragraph on why do you think they should be featured on our show?
