@@ -20,7 +20,7 @@ Meetups : [https://www.meetup.com/Women-Who-Code-Delhi/](https://www.meetup.com/
 
 ### Current Directors :
 
-* Abi Aryan [Facebook](https://www.facebook.com/officialabiaryan/) Email : abi@womenwhocode.com
+* [Abi Aryan](https://www.facebook.com/officialabiaryan/) Email : abi@womenwhocode.com
 * Priyal Aggrawal Email : priyal@womenwhocode.com
 * Brihi Joshi Email : brihi@womenwhocode.com
 * Rddhima Raghunand Email : rddhima@womenwhocode.com
