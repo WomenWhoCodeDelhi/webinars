@@ -5,8 +5,8 @@ Welcome to Women Who Code Delhi.
 [Website](https://www.womenwhocode.com/delhi) | [Facebook](https://www.facebook.com/womenwhocodedelhi/) | [Twitter](https://twitter.com/wwcode_delhi) | [Meetups](https://www.meetup.com/Women-Who-Code-Delhi/)
 
 # Blog : [Medium](https://medium.com/@WWCode_Delhi)
-1. Delhi Team Blog [https://medium.com/women-who-code-delhi](https://medium.com/women-who-code-delhi)
-2. Words in Worth - our blog on female achievers [https://medium.com/wordsinworth-interview-series]
+1. [Delhi Team Blog](https://medium.com/women-who-code-delhi)
+2. [Words in Worth - our blog on female achievers](https://medium.com/wordsinworth-interview-series)
 
 # About the Team
 
