@@ -19,11 +19,11 @@ Welcome to Women Who Code Delhi.
 Active Director : Shubhi Sareen 
 
 ### Webinar Team 
-* Stuti Verma - Production Head
-* Manmeet Kaur - Executive Head
+* Manmeet Kaur - Production Head
+* Stuti Verma - Executive Head
 * Mansi Breja - Creative Head
-* Japleen Kaur Jolly - Communications Head, Head of Blog
-* Kamal Kaur - Head of Marketing, Webinars
+* Japleen Kaur Jolly - Communications Head (blog)
+* Kamal Kaur - Marketing Head 
 * Anisha Thakur - Executive Team
 * Aakansha Singh - Executive Team
 * Priyam Bansal - Executive Team
