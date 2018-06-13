@@ -3,6 +3,22 @@
 Welcome to Women Who Code Delhi. 
 
 [Website](https://www.womenwhocode.com/delhi) | [Facebook](https://www.facebook.com/womenwhocodedelhi/) | [Twitter](https://twitter.com/wwcode_delhi) | [Meetups](https://www.meetup.com/Women-Who-Code-Delhi/)
+# Schedule
+
+* 17 June,2018 Sunday
+
+  Reshama Shaikh (Data Scientist / Statistician,Greater New York City Area)  
+  LinkedIn : https://www.linkedin.com/in/reshamas/ 
+
+* 1 July,2018 Sunday
+
+  Smitha Mave ( Engineering Leader/Technologist, Bengaluru, Karnataka, India)
+  LinkedIn : https://www.linkedin.com/in/smithamave/
+  
+ * 15 July,2018 Sunday
+   
+   Nida Sahar ( Communities / Technologist, Bengaluru, Karnataka, India )
+   LinkedIn: https://www.linkedin.com/in/nidasahar/
 
 # Blog : [Medium](https://medium.com/@WWCode_Delhi)
 1. [Delhi Team Blog](https://medium.com/women-who-code-delhi)
