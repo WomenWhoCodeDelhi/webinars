@@ -27,13 +27,11 @@ Welcome to Women Who Code Delhi.
 * Priyal Aggrawal                                                    |          Email : priyal@womenwhocode.com   |
 * Brihi Joshi                                                        |          Email : brihi@womenwhocode.com    |
 * Rddhima Raghunand                                                  |          Email : rddhima@womenwhocode.com  |
-
-Active Director : Shubhi Sareen                                      |          Email : shubhisareen@gmail.com    |
-
-* [Abi Aryan](https://www.facebook.com/officialabiaryan/)            |          Email : abi@womenwhocode.com      |
+* Shubhi Sareen (Active Director)                                    |          Email : shubhisareen@gmail.com    |
+* [Abi Aryan](https://www.facebook.com/officialabiaryan/) (Ex-Director WWC-Delhi.
+  Now, Director WWC L.A.)           |          Email : abi@womenwhocode.com      |
   
-  Ex-Director Women Who Code Delhi
-  Now, Director Women Who Code L.A.
+  
 
 ### Webinar Team 
 * Manmeet Kaur - Production Head
