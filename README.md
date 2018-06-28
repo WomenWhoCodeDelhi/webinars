@@ -28,11 +28,12 @@ Welcome to Women Who Code Delhi.
 * Brihi Joshi                                                        |          Email : brihi@womenwhocode.com    |
 * Rddhima Raghunand                                                  |          Email : rddhima@womenwhocode.com  |
 
-Active Director : Shubhi Sareen 
+Active Director : Shubhi Sareen                                      |          Email : shubhisareen@gmail.com    |
 
-* [Abi Aryan](https://www.facebook.com/officialabiaryan/)           |          Email : abi@womenwhocode.com      |
-Ex-Director Women Who Code Delhi
-Now, Director Women Who Code L.A.
+* [Abi Aryan](https://www.facebook.com/officialabiaryan/)            |          Email : abi@womenwhocode.com      |
+  
+  Ex-Director Women Who Code Delhi
+  Now, Director Women Who Code L.A.
 
 ### Webinar Team 
 * Manmeet Kaur - Production Head
