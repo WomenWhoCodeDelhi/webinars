@@ -29,7 +29,7 @@ Welcome to Women Who Code Delhi.
 * Rddhima Raghunand                                                  |          Email : rddhima@womenwhocode.com  |
 * Shubhi Sareen (Active Director)                                    |          Email : shubhisareen@gmail.com    |
 * [Abi Aryan](https://www.facebook.com/officialabiaryan/) (Ex-Director WWC-Delhi.
-  Now, Director WWC L.A.)           |          Email : abi@womenwhocode.com      |
+  Now, [Director WWC L.A.](https://www.womenwhocode.com/los-angeles))           |          Email : abi@womenwhocode.com      |
   
   
 
