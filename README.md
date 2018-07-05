@@ -6,11 +6,6 @@ Welcome to Women Who Code Delhi.
 
 # Schedule
 
-* 1 July,2018 Sunday
-
-  Smitha Mave ( Engineering Leader/Technologist, Bengaluru, Karnataka, India)   
-  LinkedIn : https://www.linkedin.com/in/smithamave/
-  
  * 15 July,2018 Sunday
    
    Nida Sahar ( Communities / Technologist, Bengaluru, Karnataka, India )   
