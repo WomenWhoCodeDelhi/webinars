@@ -6,17 +6,16 @@ Welcome to Women Who Code Delhi.
 
 # Schedule
 
+* 12 August,2018 Sunday
+ 
+   Eboni Freeman ( Co-Founder, CEO at Ability Enabled )
+   LinkedIn: https://www.linkedin.com/in/ebonifreeman/
+   
  * 15 July,2018 Sunday
    
    Nida Sahar ( Communities / Technologist, Bengaluru, Karnataka, India )   
    LinkedIn: https://www.linkedin.com/in/nidasahar/
-   
- * 12 August,2018 Sunday
- 
-   Eboni Freeman ( Co-Founder, CEO at Ability Enabled )
-   LinkedIn: https://www.linkedin.com/in/ebonifreeman/
-
-
+  
 # Blog : [Medium](https://medium.com/@WWCode_Delhi)
 1. [Delhi Team Blog](https://medium.com/women-who-code-delhi)
 2. [Words in Worth - our blog on female achievers](https://medium.com/wordsinworth-interview-series)
