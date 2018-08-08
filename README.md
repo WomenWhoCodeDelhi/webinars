@@ -8,7 +8,7 @@ Welcome to Women Who Code Delhi.
 
 * 12 August,2018 Sunday
  
-   Eboni Freeman ( Co-Founder, CEO at Ability Enabled )
+   Eboni Freeman ( Co-Founder, CEO at Ability Enabled )            
    LinkedIn: https://www.linkedin.com/in/ebonifreeman/
    
  * 15 July,2018 Sunday
