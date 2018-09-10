@@ -10,8 +10,8 @@ Welcome to Women Who Code Delhi.
    
    Dr Amita Kapoor ( Artificial Intelligence/Machine Learning Expert|| Author-TensorFlow 1.x DeepLearning Cookbook|| Associate Professor, DU
  )   
-   LinkedIn: https://www.linkedin.com/in/amitakapoor/
-   Google Scholar: https://scholar.google.co.in/citations?hl=en&user=vZvDnR0AAAAJ&view_op=list_works 
+   LinkedIn: https://www.linkedin.com/in/amitakapoor/<br>
+   Google Scholar: https://scholar.google.co.in/citations?hl=en&user=vZvDnR0AAAAJ&view_op=list_works <br>
    Website: www.dramitakapoor.com/
  
  * 12 August,2018 Sunday
