@@ -6,7 +6,15 @@ Welcome to Women Who Code Delhi.
 
 # Schedule
 
-* 12 August,2018 Sunday
+* 16 September,2018 Sunday
+   
+   Dr Amita Kapoor ( Artificial Intelligence/Machine Learning Expert|| Author-TensorFlow 1.x DeepLearning Cookbook|| Associate Professor, DU
+ )   
+   LinkedIn: https://www.linkedin.com/in/amitakapoor/
+   Google Scholar: https://scholar.google.co.in/citations?hl=en&user=vZvDnR0AAAAJ&view_op=list_works 
+   Website: www.dramitakapoor.com/
+ 
+ * 12 August,2018 Sunday
  
    Eboni Freeman ( Co-Founder, CEO at Ability Enabled )            
    LinkedIn: https://www.linkedin.com/in/ebonifreeman/
@@ -16,6 +24,7 @@ Welcome to Women Who Code Delhi.
    Nida Sahar ( Communities / Technologist, Bengaluru, Karnataka, India )   
    LinkedIn: https://www.linkedin.com/in/nidasahar/
   
+ 
 # Blog : [Medium](https://medium.com/@WWCode_Delhi)
 1. [Delhi Team Blog](https://medium.com/women-who-code-delhi)
 2. [Words in Worth - our blog on female achievers](https://medium.com/wordsinworth-interview-series)
